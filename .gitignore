@@ -1,0 +1,16 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Local Android configuration
+local.properties
+
+# Generated build files
+**/build/
+
+# Backend
+*.log
